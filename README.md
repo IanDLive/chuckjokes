@@ -5,4 +5,5 @@ There is just two basic modules that are to be installed within your Phantombot 
 by users of your bot.
 
 Install 'chuckCommand.js' --> './scripts/custom'
+
 Install 'chuckDiscordCommand.js' --> './scripts/discord/custom' 
